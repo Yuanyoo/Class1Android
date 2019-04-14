@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.prueba.MainActivity">
+    <item
+        android:id="@+id/NuevoGrupo"
+        android:orderInCategory="100"
+        android:title="NuevoGrupo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/NuevaDifusion"
+        android:orderInCategory="100"
+        android:title="NuevaDifusion"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/WhatsAppWeb"
+        android:orderInCategory="100"
+        android:title="WhatsApp Web"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/MensajesDestacados"
+        android:orderInCategory="100"
+        android:title="MensajesDestacados"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Ajustes"
+        android:orderInCategory="100"
+        android:title="Ajustes"
+        app:showAsAction="never" />
+</menu>
